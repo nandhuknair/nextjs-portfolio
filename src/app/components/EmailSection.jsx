@@ -57,7 +57,7 @@ const EmailSection = () => {
 
         {/* Contact Info */}
         <div className="text-[#ADB7BE] text-sm mb-4">
-          <h1> Phone:  +91 98765 43210</h1>
+          <h1> Phone:  +91 7012016392</h1>
           <p> Email: <a href="mailto:manikantanpc04@gmail.com" className="text-blue-400 hover:underline"> manikantanpc04@gmail.com</a></p>
         </div>
 
